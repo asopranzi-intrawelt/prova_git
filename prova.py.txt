@@ -7,3 +7,6 @@ elif a > b:
     print("Il numero più grande tra i due è " + str(a))
 else:
     print("Il numero più grande tra i due è " + str(b))
+
+# adesso che ho cambiato 
+# avevo prima scartato i cambiamenti
